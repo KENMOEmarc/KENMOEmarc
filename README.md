@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Bannière animée avec nuages en mouvement -->
   <img src="./assets/banner-header.svg" width="100%" alt="Bannière animée - KENMOE Backend Software Engineer" />
 
   <!-- Typing SVG animé -->
@@ -105,7 +104,7 @@ I design REST APIs on Spring Boot with clear separation between business logic, 
 
 `Java 17` · `Spring Boot` · `Spring Security` · `JPA/Hibernate` · `MySQL` · `React` · `Docker`
 
-[🔗 Repository](https://github.com/KENMOEmarc/laundry-backend) · [📄 Documentation](#)
+[🔗 Repository](https://github.com/KENMOEmarc/Vividela/tree/main/laundry-backend)· [📄 Documentation](https://github.com/KENMOEmarc/Vividela/blob/main/laundry-backend/README.md)
 
 </td>
 </tr>
@@ -124,8 +123,8 @@ I design REST APIs on Spring Boot with clear separation between business logic, 
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KENMOEmarc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=14b8a6&icon_color=14b8a6&text_color=f8fafc" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KENMOEmarc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=f8fafc" width="41%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/KENMOEmarc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=14b8a6&icon_color=14b8a6&text_color=f8fafc" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/KENMOEmarc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=f8fafc" width="41%" alt="Top Languages" />
 </div>
 
 ---
