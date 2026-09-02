@@ -123,8 +123,8 @@ I design REST APIs on Spring Boot with clear separation between business logic, 
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/KENMOEmarc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=14b8a6&icon_color=14b8a6&text_color=f8fafc" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/KENMOEmarc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=14b8a6&text_color=f8fafc" width="41%" alt="Top Languages" />
+   <img src="./profile/stats.svg" width="49%" alt="GitHub Stats" />
+   <img src="./profile/top-langs.svg" width="41%" alt="Top Languages" />
 </div>
 
 ---
