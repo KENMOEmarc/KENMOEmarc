@@ -59,11 +59,11 @@ I design REST APIs on Spring Boot with clear separation between business logic, 
   <img src="./assets/principles.svg" width="100%" alt="Diagramme des principes d'ingénierie" />
 </div>
 
-- **Simple** — Prefer understandable solutions over clever ones.
-- **Tested** — Design for confidence and regression safety.
-- **Secure** — Treat authentication and authorization as first-class concerns.
-- **Maintainable** — Keep responsibilities clear and boundaries explicit.
-- **Scalable** — Design with future growth in mind.
+- **Simple** - Prefer understandable solutions over clever ones.
+- **Tested** - Design for confidence and regression safety.
+- **Secure** - Treat authentication and authorization as first-class concerns.
+- **Maintainable** - Keep responsibilities clear and boundaries explicit.
+- **Scalable** - Design with future growth in mind.
 
 ---
 
@@ -100,7 +100,7 @@ I design REST APIs on Spring Boot with clear separation between business logic, 
 
 **Problem:** dry-cleaning shops need to track orders, stock, payments and customer notifications reliably, with no room for state inconsistencies (double payments, lost tickets, silent failures).
 
-**Solution:** a Spring Boot backend implementing a full order lifecycle state machine, JWT authentication with a MySQL-backed token blacklist (scheduled cleanup, no Redis dependency), a typed `BusinessException` hierarchy with a polymorphic global exception handler, and an async notification pipeline (email, SMS, in-app) that fires reliably after transaction commit — paired with a React/Tailwind frontend.
+**Solution:** a Spring Boot backend implementing a full order lifecycle state machine, JWT authentication with a MySQL-backed token blacklist (scheduled cleanup, no Redis dependency), a typed `BusinessException` hierarchy with a polymorphic global exception handler, and an async notification pipeline (email, SMS, in-app) that fires reliably after transaction commit paired with a React/Tailwind frontend.
 
 `Java 17` · `Spring Boot` · `Spring Security` · `JPA/Hibernate` · `MySQL` · `React` · `Docker`
 
