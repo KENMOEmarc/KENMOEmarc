@@ -43,6 +43,7 @@ public final class Developer {
 
 ---
 
+<!--
 ## 🏗️ Backend Architecture
 
 <div align="center">
@@ -66,8 +67,9 @@ I design REST APIs on Spring Boot with clear separation between business logic, 
 - **Scalable** - Design with future growth in mind.
 
 ---
+-->
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tech
 
 ### ☕ Backend
 ![Java SE 17](https://img.shields.io/badge/Java_SE_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
